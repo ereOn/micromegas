@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["extract_properties_from_binary_column","jsonb_to_property_map"]};
